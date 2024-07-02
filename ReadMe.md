@@ -42,11 +42,11 @@ Note: Tested in Python 3.11, running on Windows 11 with a NVIDIA RTX 4090 with C
 ### Clone repo
 
 ```
-git clone https://github.com/mrdbourke/simple-local-rag.git
+git clone git@github.com:pulkit7700/Rag_GENAI_Implementation.git
 ```
 
 ```
-cd simple-local-rag
+cd Rag_GENAI_Implementation
 ```
 
 
