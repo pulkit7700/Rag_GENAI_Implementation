@@ -3,7 +3,7 @@
 
 Local RAG pipeline we're going to build:
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/pulkit7700/Rag_GENAI_Implementation/main/images/Rag_Implementation.png)
 
 All designed to run locally on a NVIDIA GPU.
 
