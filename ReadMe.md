@@ -11,11 +11,11 @@ All the way from PDF ingestion to "chat with PDF" style features.
 
 All using open-source tools.
 
-In our specific example, we'll build NutriChat, a RAG workflow that allows a person to query a 1200 page PDF version of a Nutrition Textbook and have an LLM generate responses back to the query based on passages of text from the textbook.
+In our specific example, we'll build Knowledge Chat, a RAG workflow that allows a person to query a 1200 page PDF version of a Machine Learning Textbook and have an LLM generate responses back to the query based on passages of text from the textbook.
 
 PDF source: https://pressbooks.oer.hawaii.edu/humannutrition2/ 
 
-You can also run notebook `00-simple-local-rag.ipynb` directly in [Google Colab](https://colab.research.google.com/github/mrdbourke/simple-local-rag/blob/main/00-simple-local-rag.ipynb). 
+You can also run notebook `rag_implementation.ipynb` directly in [Google Colab](https://colab.research.google.com/drive/1RzSgT7LU9tpqkAswk9rJGFA0IwtsuWkR?usp=sharing). 
 
 TODO:
 - [ ] Finish setup instructions 
@@ -34,7 +34,6 @@ Two main options:
 
 - Comfortable writing Python code. 
 - 1-2 beginner machine learning/deep learning courses.
-- Familiarity with PyTorch, see my [beginner PyTorch video](https://youtu.be/Z_ikDlimN6A?si=NIkrslkvHaNdlYgx) for more. 
 
 ## Setup
 
