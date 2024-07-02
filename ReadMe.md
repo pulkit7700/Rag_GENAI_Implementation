@@ -3,7 +3,7 @@
 
 Local RAG pipeline we're going to build:
 
-![images\Rag_Implementation.png]
+![alt text]()
 
 All designed to run locally on a NVIDIA GPU.
 
