@@ -1,5 +1,5 @@
 
-# Simple Local RAG Tutorial
+# Simple RAG Implementation
 
 Local RAG pipeline we're going to build:
 
