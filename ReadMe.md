@@ -13,7 +13,7 @@ All using open-source tools.
 
 In our specific example, we'll build Knowledge Chat, a RAG workflow that allows a person to query a 1200 page PDF version of a Machine Learning Textbook and have an LLM generate responses back to the query based on passages of text from the textbook.
 
-PDF source: https://pressbooks.oer.hawaii.edu/humannutrition2/ 
+PDF source: [Hands On Machine Learning with Skleran and Tensorflow ](https://powerunit-ju.com/wp-content/uploads/2021/04/Aurelien-Geron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-OReilly-Media-2019.pdf)
 
 You can also run notebook `rag_implementation.ipynb` directly in [Google Colab](https://colab.research.google.com/drive/1RzSgT7LU9tpqkAswk9rJGFA0IwtsuWkR?usp=sharing). 
 
